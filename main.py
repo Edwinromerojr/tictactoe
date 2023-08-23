@@ -172,3 +172,4 @@ play_game()
     #check diagonals
 #check tie
 #flip player
+#try to push
